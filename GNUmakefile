@@ -1,7 +1,7 @@
 
 # Toolchain configuration
 CC=g++
-CFLAGS=-g -Wall 
+CFLAGS=-g -Wall #-DUNIT_TESTING
 GDB=gdb
 GDBFLAGS=-tui -x gdb_cmds
 
