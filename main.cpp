@@ -22,6 +22,8 @@
 #include <stdlib.h>
 #include <stdio.h>
 
+#include "main.h"
+
 // Utility Constants
 #define TRUE 1
 #define FALSE 0
